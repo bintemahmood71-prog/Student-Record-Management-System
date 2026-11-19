@@ -1,4 +1,5 @@
-# Northfield University — Student Record Management System
+
+# Government Post Graduate college Mardan — Student Record Management System
 
 A responsive student record management application built with React, JavaScript,
 CSS, and Vite. It supports creating, viewing, searching, filtering, editing, and
@@ -28,3 +29,6 @@ deleting student records. Records are kept in the browser using localStorage.
 ```bash
 npm install
 npm run dev
+=======
+# Student-Record-Management-System
+A React-based student record management dashboard.
